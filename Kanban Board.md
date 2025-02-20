@@ -6,6 +6,9 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] Draw vision of the project (Savio)
+- [ ] Create Spreadsheet for shared costs
+- [ ] Draw vision of the project (David)
 
 
 ## Doing
