@@ -1,6 +1,6 @@
 {
   "remoteURL": "git@github.com:AppNodes/vault.git",
   "gitLocation": "/usr/bin/",
-  "syncinterval": 0,
+  "syncinterval": 5,
   "isSyncOnLoad": true
 }
