@@ -25,13 +25,19 @@
             "id": "01a2ca2056587c4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
                 "file": "Kanban Board.md",
-                "mode": "source",
-                "source": false
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "Kanban Board"
             }
           }
@@ -186,9 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34549d01957944a1",
+  "active": "01a2ca2056587c4f",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "Kanban Board.md",
     "Kanban Board.md",
     "Home.md"
   ]
