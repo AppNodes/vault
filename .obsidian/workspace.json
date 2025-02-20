@@ -41,8 +41,7 @@
               "title": "Kanban Board"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,17 +181,17 @@
   "left-ribbon": {
     "hiddenItems": {
       "markdown-importer:Open format converter": false,
-      "obsidian-kanban:Create new board": false,
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "01a2ca2056587c4f",
+  "active": "9c80bb7d93b83826",
   "lastOpenFiles": [
     "Kanban Board.md",
     "Kanban Board.md",
