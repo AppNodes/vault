@@ -11,40 +11,14 @@
             "id": "9c80bb7d93b83826",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "ZZZ - Daves Plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Board"
-            }
-          },
-          {
-            "id": "01a2ca2056587c4f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban Board"
+              "icon": "lucide-file",
+              "title": "ZZZ - Daves Plan"
             }
           }
         ]
@@ -200,6 +174,7 @@
   "active": "9c80bb7d93b83826",
   "lastOpenFiles": [
     "Home.md",
+    "ZZZ - Daves Plan.md",
     "Kanban Board.md"
   ]
 }
