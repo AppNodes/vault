@@ -8,17 +8,17 @@ kanban-plugin: board
 
 - [ ] Draw vision of the project (Savio)
 - [ ] Create Spreadsheet for shared costs
-- [ ] Draw vision of the project (David)
 
 
 ## Doing
 
-- [ ] Invite David
+- [ ] Draw vision of the project (David)
 
 
 ## Done
 
 **Complete**
+- [x] Invite David
 
 
 
