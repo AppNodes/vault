@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "9dd42a0249b4d870",
@@ -209,8 +208,8 @@
   },
   "active": "3b0205942856207e",
   "lastOpenFiles": [
-    "Home.md",
     "Kanban Board.md",
+    "Home.md",
     "ZZZ - Daves Plan.md",
     "Design"
   ]
